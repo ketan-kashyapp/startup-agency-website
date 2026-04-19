@@ -1,0 +1,25 @@
+HOME PAGE:
+- Navbar
+- Hero Section
+- Services Preview
+- Portfolio Preview
+- Testimonials
+- CTA
+- Footer
+
+ABOUT PAGE:
+- Intro
+- Mission
+- Vision
+- Team
+
+SERVICES PAGE:
+- Service cards
+- Details
+
+PORTFOLIO:
+- Project showcase
+
+CONTACT:
+- Form
+- Info
